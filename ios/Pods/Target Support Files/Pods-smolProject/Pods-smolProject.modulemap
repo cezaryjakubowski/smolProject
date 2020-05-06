@@ -1,0 +1,6 @@
+module Pods_smolProject {
+  umbrella header "Pods-smolProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

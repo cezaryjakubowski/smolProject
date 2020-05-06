@@ -102,3 +102,26 @@ dist
 
 # TernJS port file
 .tern-port
+
+# OSX
+.DS_Store
+
+# fnv files
+.env.development
+.env.production
+.env.staging
+
+node_modules/
+dist/
+
+# log files
+*.log
+*.tsbuildinfo
+
+# personal settings
+.vscode/
+.idea/
+.atom/
+.history/
+.bundle/
+vendor/

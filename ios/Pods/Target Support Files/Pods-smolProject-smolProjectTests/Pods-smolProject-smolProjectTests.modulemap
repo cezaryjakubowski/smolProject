@@ -1,0 +1,6 @@
+module Pods_smolProject_smolProjectTests {
+  umbrella header "Pods-smolProject-smolProjectTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
